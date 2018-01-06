@@ -1,3 +1,3 @@
-# My solutions to [CS 231n Convolutional Neural Networks Assignments](https://cs231n.github.io/assignments2017) 
+My solutions to [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) C Assignments 
 
 
