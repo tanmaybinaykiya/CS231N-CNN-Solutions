@@ -309,6 +309,5 @@ class FullyConnectedNet(object):
         #                             END OF YOUR CODE                             #
         ############################################################################
 
-
         return loss, grads
 
